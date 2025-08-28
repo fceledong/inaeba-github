@@ -1,4 +1,6 @@
 # inaeba-github
-Primer repositorio en GitHub del curso Administración de repositorios - INAEBA.
+Primer repositorio del curso Administración de repositorios - INAEBA.
+
+MODIFICACIÓN REALIZADA EN VSCode.
 
 Línea agregada en el primer commit.
